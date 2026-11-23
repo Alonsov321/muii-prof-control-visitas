@@ -13,7 +13,7 @@
     <artifactId>visitas</artifactId>
     <version>1.0.0</version>
     <name>visitas</name>
-    <description>Aplicación de visitas para el control práctico de contenedores y Aurora</description>
+    <description>Aplicación de visitas para el control práctico de Aurora, contenedores y CDK</description>
 
     <properties>
         <java.version>21</java.version>

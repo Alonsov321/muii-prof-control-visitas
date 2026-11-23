@@ -1,4 +1,4 @@
-# Control práctico: contenedores y Aurora
+# Control práctico: Aurora, contenedores y CDK
 
 **Duración:** 2 horas · **Modalidad:** individual, con todo el material, internet y asistentes de IA permitidos · **Entrega:** un *pull request* de tu *fork* del repositorio.
 
